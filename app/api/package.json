@@ -1,0 +1,9 @@
+{
+  "name": "nextpath-api",
+  "version": "1.0.0",
+  "description": "API do NextPath para conectar ao Azure SQL",
+  "main": "index.js",
+  "dependencies": {
+    "mssql": "^9.0.0"
+  }
+}
