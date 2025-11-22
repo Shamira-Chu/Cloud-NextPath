@@ -4,9 +4,9 @@
       "authLevel": "anonymous",
       "type": "httpTrigger",
       "direction": "in",
-      "methods": ["get"],
       "name": "req",
-      "route": "carreiras"
+      "methods": ["get"],
+      "route": "carreiras-do-futuro"
     },
     {
       "type": "http",
